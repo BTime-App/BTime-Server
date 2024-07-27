@@ -8,7 +8,7 @@
 + commit file 
 
 ## Commit message convention
-+ `type: mesage`
++ Template: `type: mesage`
 + Type
   + `feat` Commits, that adds or remove a new feature
   + `fix` Commits, that fixes a bug
